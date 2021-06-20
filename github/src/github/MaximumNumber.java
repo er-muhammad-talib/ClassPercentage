@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class MaximumNumber {
 
+//  This is my first repo in git
+
         public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
 		System.out.println("How many number in arrey:");
@@ -33,3 +35,4 @@ public class MaximumNumber {
 	
 }
 
+}
